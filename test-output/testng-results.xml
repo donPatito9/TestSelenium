@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20108" started-at="2023-01-16T22:57:39Z" finished-at="2023-01-16T22:57:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20108" started-at="2023-01-16T22:57:39Z" finished-at="2023-01-16T22:57:59Z">
+      <class name="com.iplacex.TestSelenium.NewTest">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="14054" started-at="2023-01-16T22:57:39Z" finished-at="2023-01-16T22:57:53Z">
+        </test-method>
+        <test-method status="PASS" signature="f()" name="f" duration-ms="5097" started-at="2023-01-16T22:57:53Z" finished-at="2023-01-16T22:57:58Z">
+        </test-method>
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="941" started-at="2023-01-16T22:57:58Z" finished-at="2023-01-16T22:57:59Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

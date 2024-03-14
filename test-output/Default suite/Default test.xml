@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="MrRobinson" name="com.iplacex.TestSelenium.NewTest" tests="1" failures="0" timestamp="17 Jan 2023 02:57:59 GMT" time="20.108" errors="0">
+  <testcase name="f" time="5.097" classname="com.iplacex.TestSelenium.NewTest"/>
+</testsuite>

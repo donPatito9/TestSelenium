@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="MrRobinson" name="com.iplacex.TestSelenium.AppTest" tests="1" failures="0" timestamp="13 Dec 2022 23:26:40 GMT" time="0.019" errors="0">
+  <testcase name="testApp on instance testApp(com.iplacex.TestSelenium.AppTest)" time="0.004" classname="com.iplacex.TestSelenium.AppTest"/>
+</testsuite>

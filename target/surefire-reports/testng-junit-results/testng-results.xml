@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="19" started-at="2022-12-13T19:26:40Z" finished-at="2022-12-13T19:26:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19" started-at="2022-12-13T19:26:40Z" finished-at="2022-12-13T19:26:40Z">
+      <class name="com.iplacex.TestSelenium.AppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="4" started-at="2022-12-13T19:26:40Z" finished-at="2022-12-13T19:26:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
